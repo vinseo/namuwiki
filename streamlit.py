@@ -23,5 +23,14 @@ st.subheader("2022-2 데이터 저널리즘 과제전")
 st.title("나무위키 활용 학습의 가능성과 한계")
 st.write("10조: 서정빈, 신부경, 정민제")
 
+#문제의식 서술
 st.markdown("<hr>", unsafe_allow_html=True)
 st.markdown("### 문제의식")
+
+#데이터 소개
+st.markdown("<hr>", unsafe_allow_html=True)
+st.markdown("### 데이터 소개")
+
+#데이터 분석
+st.markdown("<hr>", unsafe_allow_html=True)
+st.markdown("### 데이터 분석 결과")
